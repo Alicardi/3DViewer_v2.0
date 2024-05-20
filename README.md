@@ -17,7 +17,7 @@
 
 ## Chapter I
 
-![3dviewer2.0](misc/images/3dviewer2.0.PNG)
+![3dviewer2.0](src/images/3dviewer2.0.PNG)
 
 Где-то около кофемашины в 90-ом:
 
